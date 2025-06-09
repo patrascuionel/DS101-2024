@@ -1,0 +1,100 @@
+(venv) ionel@Ionel-HomePC:~/ds$ python autovit_scrap.py 
+2025-06-09 14:56:46,211 - INFO - Starting the scraping process...
+2025-06-09 14:56:46,211 - INFO - Scraping 29 pages from https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc
+2025-06-09 14:56:46,212 - INFO - Scraping page 1: https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc
+2025-06-09 14:56:48,073 - INFO - Scraped 32 records from page 1.
+2025-06-09 14:56:48,073 - INFO - Waiting for 115.93 seconds before the next request.
+2025-06-09 14:58:44,103 - INFO - Scraping page 2: https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc&page=2
+2025-06-09 14:58:45,303 - INFO - Scraped 32 records from page 2.
+2025-06-09 14:58:45,303 - INFO - Waiting for 65.07 seconds before the next request.
+2025-06-09 14:59:50,399 - INFO - Scraping page 3: https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc&page=3
+2025-06-09 14:59:51,541 - INFO - Scraped 32 records from page 3.
+2025-06-09 14:59:51,541 - INFO - Waiting for 88.57 seconds before the next request.
+2025-06-09 15:01:20,120 - INFO - Scraping page 4: https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc&page=4
+2025-06-09 15:01:21,355 - INFO - Scraped 32 records from page 4.
+2025-06-09 15:01:21,356 - INFO - Waiting for 114.44 seconds before the next request.
+2025-06-09 15:03:15,890 - INFO - Scraping page 5: https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc&page=5
+2025-06-09 15:03:17,721 - INFO - Scraped 32 records from page 5.
+2025-06-09 15:03:17,721 - INFO - Waiting for 84.05 seconds before the next request.
+2025-06-09 15:04:41,798 - INFO - Scraping page 6: https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc&page=6
+2025-06-09 15:04:42,926 - INFO - Scraped 32 records from page 6.
+2025-06-09 15:04:42,926 - INFO - Waiting for 74.92 seconds before the next request.
+2025-06-09 15:05:57,866 - INFO - Scraping page 7: https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc&page=7
+2025-06-09 15:05:59,267 - INFO - Scraped 32 records from page 7.
+2025-06-09 15:05:59,267 - INFO - Waiting for 74.19 seconds before the next request.
+2025-06-09 15:07:13,466 - INFO - Scraping page 8: https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc&page=8
+2025-06-09 15:07:14,956 - INFO - Scraped 32 records from page 8.
+2025-06-09 15:07:14,956 - INFO - Waiting for 63.49 seconds before the next request.
+2025-06-09 15:08:18,511 - INFO - Scraping page 9: https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc&page=9
+2025-06-09 15:08:20,093 - INFO - Scraped 32 records from page 9.
+2025-06-09 15:08:20,093 - INFO - Waiting for 70.45 seconds before the next request.
+2025-06-09 15:09:30,550 - INFO - Scraping page 10: https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc&page=10
+2025-06-09 15:09:31,633 - INFO - Scraped 32 records from page 10.
+2025-06-09 15:09:31,633 - INFO - Waiting for 114.27 seconds before the next request.
+2025-06-09 15:11:26,000 - INFO - Scraping page 11: https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc&page=11
+2025-06-09 15:11:27,452 - INFO - Scraped 32 records from page 11.
+2025-06-09 15:11:27,452 - INFO - Waiting for 62.14 seconds before the next request.
+2025-06-09 15:12:29,598 - INFO - Scraping page 12: https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc&page=12
+2025-06-09 15:12:31,399 - INFO - Scraped 32 records from page 12.
+2025-06-09 15:12:31,399 - INFO - Waiting for 82.23 seconds before the next request.
+2025-06-09 15:13:53,708 - INFO - Scraping page 13: https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc&page=13
+2025-06-09 15:13:55,096 - INFO - Scraped 32 records from page 13.
+2025-06-09 15:13:55,096 - INFO - Waiting for 112.11 seconds before the next request.
+2025-06-09 15:15:47,253 - INFO - Scraping page 14: https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc&page=14
+2025-06-09 15:15:48,772 - INFO - Scraped 32 records from page 14.
+2025-06-09 15:15:48,772 - INFO - Waiting for 87.81 seconds before the next request.
+2025-06-09 15:17:16,647 - INFO - Scraping page 15: https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc&page=15
+2025-06-09 15:17:18,436 - INFO - Scraped 32 records from page 15.
+2025-06-09 15:17:18,437 - INFO - Waiting for 77.34 seconds before the next request.
+2025-06-09 15:18:35,852 - INFO - Scraping page 16: https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc&page=16
+2025-06-09 15:18:37,582 - INFO - Scraped 32 records from page 16.
+2025-06-09 15:18:37,582 - INFO - Waiting for 64.14 seconds before the next request.
+2025-06-09 15:19:41,792 - INFO - Scraping page 17: https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc&page=17
+2025-06-09 15:19:43,027 - INFO - Scraped 32 records from page 17.
+2025-06-09 15:19:43,028 - INFO - Waiting for 101.98 seconds before the next request.
+2025-06-09 15:21:25,039 - INFO - Scraping page 18: https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc&page=18
+2025-06-09 15:21:26,190 - INFO - Scraped 32 records from page 18.
+2025-06-09 15:21:26,190 - INFO - Waiting for 76.89 seconds before the next request.
+2025-06-09 15:22:43,151 - INFO - Scraping page 19: https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc&page=19
+2025-06-09 15:22:44,696 - INFO - Scraped 32 records from page 19.
+2025-06-09 15:22:44,696 - INFO - Waiting for 78.42 seconds before the next request.
+2025-06-09 15:24:03,196 - INFO - Scraping page 20: https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc&page=20
+2025-06-09 15:24:04,614 - INFO - Scraped 32 records from page 20.
+2025-06-09 15:24:04,614 - INFO - Waiting for 79.56 seconds before the next request.
+2025-06-09 15:25:24,249 - INFO - Scraping page 21: https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc&page=21
+2025-06-09 15:25:25,587 - INFO - Scraped 32 records from page 21.
+2025-06-09 15:25:25,588 - INFO - Waiting for 82.71 seconds before the next request.
+2025-06-09 15:26:48,345 - INFO - Scraping page 22: https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc&page=22
+2025-06-09 15:26:49,899 - INFO - Scraped 32 records from page 22.
+2025-06-09 15:26:49,899 - INFO - Waiting for 69.78 seconds before the next request.
+2025-06-09 15:27:59,707 - INFO - Scraping page 23: https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc&page=23
+2025-06-09 15:28:01,075 - INFO - Scraped 32 records from page 23.
+2025-06-09 15:28:01,075 - INFO - Waiting for 95.20 seconds before the next request.
+2025-06-09 15:29:36,367 - INFO - Scraping page 24: https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc&page=24
+2025-06-09 15:29:38,195 - INFO - Scraped 32 records from page 24.
+2025-06-09 15:29:38,195 - INFO - Waiting for 76.79 seconds before the next request.
+2025-06-09 15:30:55,057 - INFO - Scraping page 25: https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc&page=25
+2025-06-09 15:30:56,955 - INFO - Scraped 32 records from page 25.
+2025-06-09 15:30:56,956 - INFO - Waiting for 91.33 seconds before the next request.
+2025-06-09 15:32:28,329 - INFO - Scraping page 26: https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc&page=26
+2025-06-09 15:32:29,731 - INFO - Scraped 32 records from page 26.
+2025-06-09 15:32:29,731 - INFO - Waiting for 117.14 seconds before the next request.
+2025-06-09 15:34:26,938 - INFO - Scraping page 27: https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc&page=27
+2025-06-09 15:34:28,411 - INFO - Scraped 32 records from page 27.
+2025-06-09 15:34:28,411 - INFO - Waiting for 62.10 seconds before the next request.
+2025-06-09 15:35:30,573 - INFO - Scraping page 28: https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc&page=28
+2025-06-09 15:35:32,077 - INFO - Scraped 32 records from page 28.
+2025-06-09 15:35:32,078 - INFO - Waiting for 73.56 seconds before the next request.
+2025-06-09 15:36:45,644 - INFO - Scraping page 29: https://www.autovit.ro/autoturisme/bmw/seria-3?search%5Border%5D=filter_float_price%3Aasc&page=29
+2025-06-09 15:36:47,247 - INFO - Scraped 26 records from page 29.
+2025-06-09 15:36:47,248 - INFO - Scraping complete. DataFrame created.
+              Model Engine Size (cm3)  ... Price (EUR)                                                URL
+0       BMW Seria 3              1796  ...        1100  https://www.autovit.ro/autoturisme/anunt/bmw-s...
+1       BMW Seria 3              1796  ...        1400  https://www.autovit.ro/autoturisme/anunt/bmw-s...
+2  BMW Seria 3 318i              1995  ...        1500  https://www.autovit.ro/autoturisme/anunt/bmw-s...
+3       BMW Seria 3              1995  ...        1899  https://www.autovit.ro/autoturisme/anunt/bmw-s...
+4       BMW Seria 3              1995  ...        2290  https://www.autovit.ro/autoturisme/anunt/bmw-s...
+
+[5 rows x 9 columns]
+2025-06-09 15:36:47,268 - INFO - Total records scraped: 922
+2025-06-09 15:36:47,277 - INFO - Data saved to /home/ionel/ds/csvs/seria3_20250609_153647.csv
